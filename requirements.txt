@@ -2,4 +2,3 @@ requests
 google-cloud-storage
 google-cloud-bigquery
 pandas
-google-cloud-secretmanager
